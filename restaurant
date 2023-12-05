@@ -1,0 +1,32 @@
+ "restaurant": [
+    {
+      "name": "KFC",
+      "rating": 4
+      "latitude": 10.81554023671072  
+      "longitude": 106.72074133021115
+    },
+    {
+      "name": "Chao Vit",
+      "rating": 3
+      "latitude": 10.815867029715346  
+      "longitude": 106.72090156524052
+    },
+    {
+      "name": "Chicken Plus",
+      "rating": 5
+      "latitude": 10.815353088565558
+      "longitude": 106.72155061852433
+    },
+    {
+     "name": "Pho Ga",
+      "rating": 4
+      "latitude": 10.815363112138495  
+      "longitude": 106.72180415496321
+    },
+    {
+     "name": "Quan Oc Nava",
+      "rating": 2
+      "latitude": 10.81584330937398  
+      "longitude": 106.72211854014733
+    }
+  ]
